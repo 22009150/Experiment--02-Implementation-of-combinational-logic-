@@ -9,8 +9,8 @@ To implement the given logic function verify its operation in Quartus using Veri
  
  
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
+ Hardware – PCs, Cyclone II , USB flasher
+ Software – Quartus prime
 
 
 ## Theory
@@ -58,13 +58,18 @@ endmodule
 ```
 
 ## RTL realization
-![Uploading Screenshot 2023-08-25 094720.png…]()
+![image](https://github.com/22009150/Experiment--02-Implementation-of-combinational-logic-/assets/118708624/d1ffaf2d-cda1-47e7-af3a-522bd5fdd420)
+
 
 
 ## Output:
-![Untitled](https://github.com/22009150/Experiment--02-Implementation-of-combinational-logic-/assets/118708624/ca9bbd24-70a2-4d27-a584-6d3e7602fe27)
+![image](https://github.com/22009150/Experiment--02-Implementation-of-combinational-logic-/assets/118708624/9de3d64d-dc8a-4093-982a-1b20b9ea7420)
 
-## Timing Diagram
+
+## Truth table:
+![image](https://github.com/22009150/Experiment--02-Implementation-of-combinational-logic-/assets/118708624/51bcc542-952f-4b3b-8b54-c838b767bed0)
+
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
